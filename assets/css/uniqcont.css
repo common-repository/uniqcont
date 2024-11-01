@@ -1,0 +1,54 @@
+.ucwp-show-matches {
+  font-size: 1.1em;
+  text-transform: uppercase;
+  color: #0a4b78;
+  cursor: pointer;
+}
+
+.ucwp-show-matches:hover {
+  opacity: 0.7;
+}
+
+.ucwp-text-matches {
+  display: none;
+}
+
+.ucwp-text-match {
+  display: none;
+}
+
+#ucwp-matches-text-all {
+  display: block;
+}
+
+.ucwp-match-word {
+  background-color: #fbeaea;
+}
+
+.ucwp_result {
+  font-size: 18px;
+  margin: 15px 0 7px 7px;
+}
+
+.button.ucwp-check-post-btn {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ucwp-check-post-btn,
+.ucwp-check-btn,
+.ucwp-result-value {
+  font-weight: bold;
+}
+
+.ucwp-result-red {
+  color: #d2322d;
+}
+
+.ucwp-result-orange {
+  color: #db815e;
+}
+
+.ucwp-result-green {
+  color: #33b748;
+}
